@@ -1,0 +1,9 @@
+D:\Programs\Telerick\UI&DOM\All-Tasks\Exam-preparation-task-files\Callendar\Callendar\bin\Callendar.dll.config
+D:\Programs\Telerick\UI&DOM\All-Tasks\Exam-preparation-task-files\Callendar\Callendar\bin\Callendar.dll
+D:\Programs\Telerick\UI&DOM\All-Tasks\Exam-preparation-task-files\Callendar\Callendar\bin\Callendar.pdb
+D:\Programs\Telerick\UI&DOM\All-Tasks\Exam-preparation-task-files\Callendar\Callendar\bin\Callendar.xml
+D:\Programs\Telerick\UI&DOM\All-Tasks\Exam-preparation-task-files\Callendar\Callendar\obj\Debug\Callendar.Resources.resources
+D:\Programs\Telerick\UI&DOM\All-Tasks\Exam-preparation-task-files\Callendar\Callendar\obj\Debug\Calendar.vbproj.GenerateResource.Cache
+D:\Programs\Telerick\UI&DOM\All-Tasks\Exam-preparation-task-files\Callendar\Callendar\obj\Debug\Callendar.dll
+D:\Programs\Telerick\UI&DOM\All-Tasks\Exam-preparation-task-files\Callendar\Callendar\obj\Debug\Callendar.xml
+D:\Programs\Telerick\UI&DOM\All-Tasks\Exam-preparation-task-files\Callendar\Callendar\obj\Debug\Callendar.pdb
